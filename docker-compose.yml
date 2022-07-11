@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+  logistic_organisation:
+    container_name: logistic_organisation
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - "3002:3002"

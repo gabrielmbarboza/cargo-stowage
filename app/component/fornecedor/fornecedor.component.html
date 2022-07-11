@@ -1,0 +1,25 @@
+
+
+<div style="position:absolute; top:50px; left:10px; z-index:1">  
+
+<mat-form-field appearance="fill">
+    <mat-label>Caminhão Semirreboque Compartimento</mat-label>
+    <mat-select [(ngModel)]="selectedValue" name="cam">
+      <mat-option *ngFor="let cam of DropDownCam" [value]="cam.value">
+        {{cam.viewValue}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+ <button (click)="getTodas()">Todas caixas</button>
+
+ <button id="uma" (click)="getUma()" >Caixa a caixa</button>
+
+ <button (click)="limparcanvas()">Limpar o desenho</button>
+
+</div>
+
+<div id='d1' style="position:absolute; top:100px; left:0px; z-index:1">  
+    <canvas #canvas id="canvasId" #canvasRef></canvas>
+</div>
+

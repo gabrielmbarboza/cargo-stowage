@@ -1,0 +1,224 @@
+{"Caixas":
+[ 		
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 240,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 240,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 200,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 160,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 130,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 70,
+		"C": 130,
+		"H": 100
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 120,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 80,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 98,
+		"PosY": 130,
+		"PosZ": 0,
+		"L": 120,
+		"C": 120,
+		"H": 80
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 40,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 0,
+		"PosY": 0,
+		"PosZ": 70,
+		"L": 120,
+		"C": 80,
+		"H": 120
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 0,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 130,
+		"C": 100,
+		"H": 70
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 98,
+		"PosY": 170,
+		"PosZ": 80,
+		"L": 120,
+		"C": 80,
+		"H": 120
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 0,
+		"PosY": 70,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 0,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 40,
+		"C": 70,
+		"H": 60
+	},	
+	{	
+		"Placa": "QRD-7310",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 0,
+		"PosY": 100,
+		"PosZ": 0,
+		"L": 70,
+		"C": 130,
+		"H": 100
+	},	
+	{	
+		"Placa": "RQM8A22",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 0,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 130,
+		"C": 100,
+		"H": 70
+	},	
+	{	
+		"Placa": "RQM8A22",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 0,
+		"PosY": 0,
+		"PosZ": 70,
+		"L": 120,
+		"C": 80,
+		"H": 120
+	},	
+	{	
+		"Placa": "MRV3018",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 98,
+		"PosY": 130,
+		"PosZ": 0,
+		"L": 120,
+		"C": 120,
+		"H": 80
+	},	
+	{	
+		"Placa": "MRV3018",
+		"Semi": 1,
+		"Comp": 1,
+		"PosX": 98,
+		"PosY": 130,
+		"PosZ": 80,
+		"L": 120,
+		"C": 80,
+		"H": 120
+	},	
+	{	
+		"Placa": "MRV3018",
+		"Semi": 1,
+		"Comp": 2,
+		"PosX": 130,
+		"PosY": 0,
+		"PosZ": 0,
+		"L": 70,
+		"C": 130,
+		"H": 100
+	}
+]
+}	
