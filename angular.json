@@ -27,7 +27,7 @@
               "src/assets",
               {
                 "glob": "_redirects",
-                "src": "src",
+                "input": "src",
                 "output": "/"
               }
             ],
